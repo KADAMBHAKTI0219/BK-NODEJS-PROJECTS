@@ -13,4 +13,4 @@ userRouter.put("/updateBookStoreData/:id", EditBookStoreData);
 
 userRouter.delete("/deleteBookStoreData/:id", DeleteBookStoreData);
 
-module.exports = userRouter;
+module.exports = userRouter;        
